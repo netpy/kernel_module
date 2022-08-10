@@ -1,0 +1,1 @@
+cmd_/github/kernel_module/irq/request_threaded_irq/request_threaded_irq.mod := { echo  /github/kernel_module/irq/request_threaded_irq/request_threaded_irq.o;  echo; } > /github/kernel_module/irq/request_threaded_irq/request_threaded_irq.mod
