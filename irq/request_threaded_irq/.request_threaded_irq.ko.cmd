@@ -1,1 +1,0 @@
-cmd_/github/kernel_module/irq/request_threaded_irq/request_threaded_irq.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /github/kernel_module/irq/request_threaded_irq/request_threaded_irq.ko /github/kernel_module/irq/request_threaded_irq/request_threaded_irq.o /github/kernel_module/irq/request_threaded_irq/request_threaded_irq.mod.o;  true
